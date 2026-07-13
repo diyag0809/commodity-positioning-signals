@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+f_year.txt
+F_Disagg06_16.txt
