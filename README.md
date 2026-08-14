@@ -63,8 +63,8 @@ invalidate the whole test.
 | Crude Oil | 0.011 | 0.762 | 0.002 | 0.957 |
 | Gold | -0.043 | 0.177 | -0.086 | 0.007 |
 
-Nothing shows up at 1 week for any commodity. At 4 weeks, Corn and Gold 
-both clear the standard p < 0.05 threshold. Natural Gas and Crude don't 
+Nothing shows up at 1 week for any commodity. At 4 weeks, Corn 
+clears the standard p < 0.05 threshold. Natural Gas, Gold and Crude don't 
 come close at either horizon.
 
 ### Walk-forward split (Corn and Gold, 4-week horizon)
