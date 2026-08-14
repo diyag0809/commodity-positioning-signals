@@ -10,12 +10,12 @@ Gas, Gold, and Corn, and tested whether extreme positioning in the
 "Managed Money" category predicted returns over the following 1 and 4 
 weeks.
 
-**Short version: there's a small mean-reverting effect in Corn and Gold 
+**Short version: there's a small mean-reverting effect in Corn
 at the 4-week horizon, but it only holds up in the first half of the 
 sample. I don't think it's a real, tradeable signal.**
 
-Natural Gas and Crude showed nothing at either horizon. When I split the 
-data in half to check if the Corn/Gold effect was stable over time, it 
+Natural Gas,Gold and Crude showed nothing at either horizon. When I split the 
+data in half to check if the Corn effect was stable over time, it 
 shows up clearly from 2006 through mid-2015 and disappears completely 
 after that, so it looks more like a residue of one unusual period 
 (probably the 2008-2009 crisis) than a persistent pattern.
