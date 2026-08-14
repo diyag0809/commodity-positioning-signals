@@ -10,11 +10,11 @@ Gas, Gold, and Corn, and tested whether extreme positioning in the
 "Managed Money" category predicted returns over the following 1 and 4 
 weeks.
 
-**Short version: there's a small mean-reverting effect in Corn
+**Short version: there's a small mean-reverting effect in Corn and Gold
 at the 4-week horizon, but it only holds up in the first half of the 
 sample. I don't think it's a real, tradeable signal.**
 
-Natural Gas,Gold and Crude showed nothing at either horizon. When I split the 
+Natural Gas and Crude showed nothing at either horizon. When I split the 
 data in half to check if the Corn effect was stable over time, it 
 shows up clearly from 2006 through mid-2015 and disappears completely 
 after that, so it looks more like a residue of one unusual period 
@@ -63,8 +63,8 @@ invalidate the whole test.
 | Crude Oil | 0.011 | 0.762 | 0.002 | 0.957 |
 | Gold | -0.043 | 0.177 | -0.086 | 0.007 |
 
-Nothing shows up at 1 week for any commodity. At 4 weeks, Corn 
-clears the standard p < 0.05 threshold. Natural Gas, Gold and Crude don't 
+Nothing shows up at 1 week for any commodity. At 4 weeks, Corn and Gold 
+clear the standard p < 0.05 threshold. Natural Gas and Crude don't 
 come close at either horizon.
 
 ### Walk-forward split (Corn and Gold, 4-week horizon)
